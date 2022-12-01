@@ -1,0 +1,25 @@
+button:hover {
+    background-color: #bca0dc;
+}
+
+button:active {
+    background-color: #9969d0;
+}
+
+#nextShapeCanvas {
+    position: absolute;
+    top: 10;
+}
+
+#scoreCanvas {
+    position: absolute;
+    top: 220;        
+}
+
+.reset-button {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background-color: gray;
+    border: 0px;
+}
